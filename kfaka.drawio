@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T12:30:08.795Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="BqkeO6DWNd529EQoOawi" version="22.1.18" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-18T12:30:53.554Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="s_dNuKEZqwK8bMbdc1v4" version="22.1.18" type="github" pages="2">
   <diagram name="Page-1" id="7g4v0EGq_gPfce9gZ5eK">
     <mxGraphModel dx="1354" dy="1342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -354,7 +354,7 @@
             <mxPoint x="248.438951111111" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="24WT8cKeA2kq_Hh43e5X-44" value="数据&lt;br style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;研究框架&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;策略&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="24WT8cKeA2kq_Hh43e5X-39">
+        <mxCell id="24WT8cKeA2kq_Hh43e5X-44" value="资产配置&lt;br&gt;投资标的" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="24WT8cKeA2kq_Hh43e5X-39">
           <mxGeometry x="418.44" y="30" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="24WT8cKeA2kq_Hh43e5X-45" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="24WT8cKeA2kq_Hh43e5X-39" source="24WT8cKeA2kq_Hh43e5X-41" target="24WT8cKeA2kq_Hh43e5X-44">
