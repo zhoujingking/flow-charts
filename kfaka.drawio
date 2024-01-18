@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T12:37:15.189Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="O4c94ijQ7JeDm8M4d9M4" version="22.1.18" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-18T12:41:54.987Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="DCoH9rXAq0F1A1a0SeUd" version="22.1.18" type="github" pages="2">
   <diagram name="Page-1" id="7g4v0EGq_gPfce9gZ5eK">
     <mxGraphModel dx="1354" dy="1342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -416,6 +416,18 @@
         </mxCell>
         <mxCell id="24WT8cKeA2kq_Hh43e5X-64" value="交易" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="70" y="205" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="24WT8cKeA2kq_Hh43e5X-66" value="" style="shape=doubleArrow;direction=south;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="-294" y="300" width="60" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="24WT8cKeA2kq_Hh43e5X-68" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-340" y="370" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="24WT8cKeA2kq_Hh43e5X-67" value="动态调整&amp;nbsp; &amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;align=right;" vertex="1" parent="24WT8cKeA2kq_Hh43e5X-68">
+          <mxGeometry width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="24WT8cKeA2kq_Hh43e5X-65" value="" style="shape=image;html=1;verticalLabelPosition=bottom;verticalAlign=top;imageAspect=1;aspect=fixed;image=img/clipart/Gear_128x128.png;fontSize=16;" vertex="1" parent="24WT8cKeA2kq_Hh43e5X-68">
+          <mxGeometry x="20" y="9.5" width="52" height="61" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
