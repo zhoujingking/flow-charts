@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-18T12:18:41.168Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="VJlaiWNXHNrk9nQEmdVU" version="22.1.18" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-01-18T12:26:49.233Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="sVoFgaNoCeDEN2JAwqGg" version="22.1.18" type="github" pages="2">
   <diagram name="Page-1" id="7g4v0EGq_gPfce9gZ5eK">
     <mxGraphModel dx="1354" dy="1342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -307,7 +307,7 @@
           <mxGeometry x="87.66999999999996" y="135" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="24WT8cKeA2kq_Hh43e5X-36" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="-738.438951111111" y="-210" width="538.438951111111" height="110" as="geometry" />
+          <mxGeometry x="-738.438951111111" y="-210" width="538.44" height="110" as="geometry" />
         </mxCell>
         <mxCell id="24WT8cKeA2kq_Hh43e5X-25" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;textOpacity=0;" vertex="1" parent="24WT8cKeA2kq_Hh43e5X-36">
           <mxGeometry y="30" width="49.00784" height="80" as="geometry" />
@@ -324,8 +324,8 @@
             <mxPoint x="248.438951111111" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="24WT8cKeA2kq_Hh43e5X-34" value="投资标的&lt;br&gt;投资配比" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="24WT8cKeA2kq_Hh43e5X-36">
-          <mxGeometry x="418.438951111111" y="40" width="120" height="60" as="geometry" />
+        <mxCell id="24WT8cKeA2kq_Hh43e5X-34" value="数据&lt;br style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;研究框架&lt;/span&gt;&lt;br style=&quot;border-color: var(--border-color); text-align: left;&quot;&gt;&lt;span style=&quot;text-align: left;&quot;&gt;策略&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="24WT8cKeA2kq_Hh43e5X-36">
+          <mxGeometry x="418.44" y="30" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="24WT8cKeA2kq_Hh43e5X-35" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="24WT8cKeA2kq_Hh43e5X-36" source="24WT8cKeA2kq_Hh43e5X-26" target="24WT8cKeA2kq_Hh43e5X-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
