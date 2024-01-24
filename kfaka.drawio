@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-24T06:28:55.765Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="r-Gc33Ub53WX2QY-aSFx" version="23.0.0" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-01-24T06:30:01.466Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="E2jVq4VZHScIQinkatzR" version="23.0.0" type="github" pages="3">
   <diagram name="kafka" id="7g4v0EGq_gPfce9gZ5eK">
     <mxGraphModel dx="1354" dy="1342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -265,6 +265,21 @@
           <mxGeometry width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Xvg2dbbEAVW9sJIUv2Si-12" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Xvg2dbbEAVW9sJIUv2Si-9" source="Xvg2dbbEAVW9sJIUv2Si-10" target="Xvg2dbbEAVW9sJIUv2Si-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="230" as="sourcePoint" />
+            <mxPoint x="330" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Xvg2dbbEAVW9sJIUv2Si-13" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="-660" y="120" width="120" height="210" as="geometry" />
+        </mxCell>
+        <mxCell id="Xvg2dbbEAVW9sJIUv2Si-14" value="" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=16;" vertex="1" parent="Xvg2dbbEAVW9sJIUv2Si-13">
+          <mxGeometry x="30" y="130" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Xvg2dbbEAVW9sJIUv2Si-15" value="payment&lt;br&gt;service" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="Xvg2dbbEAVW9sJIUv2Si-13">
+          <mxGeometry width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Xvg2dbbEAVW9sJIUv2Si-16" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="Xvg2dbbEAVW9sJIUv2Si-13" source="Xvg2dbbEAVW9sJIUv2Si-14" target="Xvg2dbbEAVW9sJIUv2Si-15">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="280" y="230" as="sourcePoint" />
             <mxPoint x="330" y="180" as="targetPoint" />
