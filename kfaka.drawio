@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T03:11:20.344Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="CnORivVvPA2xPdPqTxSI" version="23.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-02-05T03:22:12.152Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="6DAEpXhnobbOVC5M1XJB" version="23.0.2" type="github" pages="4">
   <diagram name="kafka" id="7g4v0EGq_gPfce9gZ5eK">
     <mxGraphModel dx="1354" dy="1342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -323,7 +323,7 @@
         <mxCell id="IWOk8__oU6VWFn6J8-6V-3" value="UsernamePasswordAuthenticationFilter" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-375" y="290" width="300" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IWOk8__oU6VWFn6J8-6V-5" value="AbstractAuthenticationProcessingFilter" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="IWOk8__oU6VWFn6J8-6V-5" value="AbstractAuthenticationProcessingFilter" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="-400" y="170" width="350" height="60" as="geometry" />
         </mxCell>
         <mxCell id="IWOk8__oU6VWFn6J8-6V-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="IWOk8__oU6VWFn6J8-6V-7" target="IWOk8__oU6VWFn6J8-6V-10">
@@ -346,6 +346,39 @@
         </mxCell>
         <mxCell id="IWOk8__oU6VWFn6J8-6V-12" value="AuthenticationManager.authenticate" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="230" y="240" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IWOk8__oU6VWFn6J8-6V-15" value="AuthenticationManager" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="315" y="350" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IWOk8__oU6VWFn6J8-6V-16" value="AuthenticationProvider" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="680" y="470" width="230" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IWOk8__oU6VWFn6J8-6V-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="IWOk8__oU6VWFn6J8-6V-17" target="IWOk8__oU6VWFn6J8-6V-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IWOk8__oU6VWFn6J8-6V-17" value="ProviderManager" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="355" y="470" width="150" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IWOk8__oU6VWFn6J8-6V-19" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="IWOk8__oU6VWFn6J8-6V-17" target="IWOk8__oU6VWFn6J8-6V-16">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="450" as="sourcePoint" />
+            <mxPoint x="610" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IWOk8__oU6VWFn6J8-6V-20" value="invoke" style="text;strokeColor=none;align=center;fillColor=none;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="545" y="460" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IWOk8__oU6VWFn6J8-6V-23" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="IWOk8__oU6VWFn6J8-6V-22" target="IWOk8__oU6VWFn6J8-6V-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IWOk8__oU6VWFn6J8-6V-22" value="AbstractUserDetailsAuthenticationProvider" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="610" y="580" width="370" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IWOk8__oU6VWFn6J8-6V-25" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="IWOk8__oU6VWFn6J8-6V-24" target="IWOk8__oU6VWFn6J8-6V-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="IWOk8__oU6VWFn6J8-6V-24" value="DaoAuthenticationProvider" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="610" y="670" width="370" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
