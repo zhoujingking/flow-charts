@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-05T02:11:49.619Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="X-ZG1FbysrAhCMGMXT5b" version="23.0.2" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2024-02-05T02:14:58.262Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="G0axPCon7gbzr_z9v5l5" version="23.0.2" type="github" pages="4">
   <diagram name="kafka" id="7g4v0EGq_gPfce9gZ5eK">
     <mxGraphModel dx="1354" dy="1342" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -307,10 +307,16 @@
     </mxGraphModel>
   </diagram>
   <diagram id="mJEJn3OlAjC82Tzg9rCS" name="security">
-    <mxGraphModel dx="954" dy="542" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1754" dy="942" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="IWOk8__oU6VWFn6J8-6V-1" value="http.formLogin" style="text;strokeColor=#d79b00;align=center;fillColor=#ffe6cc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-500" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="IWOk8__oU6VWFn6J8-6V-2" value="UsernamePasswordAuthenticationFilter&lt;br&gt;DefaultLoginPageGeneratingFilter&lt;br&gt;DefaultLogoutPageGeneratingFilter" style="text;strokeColor=#d6b656;align=center;fillColor=#fff2cc;html=1;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-310" y="-35" width="360" height="130" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
